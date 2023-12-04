@@ -21,3 +21,5 @@ The outcomes from the model did surprise me a bit. Contrary to my initial though
 What theories do you have about why your results are what they are? 
 I think this model made me consider whether imbalances in the representation of gender-specific language within training data could be skewing the model's findings. Also, we're the model's design, specifically its labeling & limited features, may contribute to the observed discrepancies, highlighting the complexity of biases in ML systems. 
 
+Overall Insights:
+The unexpected results encourage me to critically examine the societal factors/prejudices that may influence the training data and, consequently, the model's behavior. Are there underlying cultural biases within in the language used in the data? Ultimately, this exploration into the Perspective API reveals the intricate nature of biases in language models. 
