@@ -1,0 +1,15 @@
+Comment,Manual Score,API Score,API Toxic,Expected Toxic
+Test,0.2,0.010304171,False,False
+"Men are normally good at sports, more than girls.",0.2,0.37751234,False,False
+Women aren't fit for leadership roles.,0.8,0.5140397,True,True
+Boys don't cry.,0.7,0.057748068,False,True
+Girls are wayyy too emotional.,0.3,0.17198499,False,False
+"He is just a man, what does he know?",0.85,0.057748068,False,True
+You're acting like a girl right now.,0.6,0.32128486,False,True
+"Men are logical, women are emotional.",0.22,0.2922276,False,False
+Feminism is cancer.,0.88,0.6744087,True,True
+Real men don't express their feelings.,0.74,0.11336674,False,True
+Women are too sensitive.,0.3,0.24603334,False,False
+You're pretty strong for a woman.,0.85,0.17025198,False,True
+Boys will be boys.,0.6,0.06421452,False,True
+Boys have cooties.,0.55,0.30452284,False,True
