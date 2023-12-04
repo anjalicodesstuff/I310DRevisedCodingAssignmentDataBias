@@ -1,9 +1,6 @@
 # I310DRevisedCodingAssignmentDataBias
 Coding Assignment: Data Bias, I310D
 
-
-Coding Assignment: Data Bias, I310D
-
 Step 3: Testing
 
 My hypotheses:
